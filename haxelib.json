@@ -1,9 +1,9 @@
 {
   "name": "hxArbitraryPrecisionInt",
-  "url" : "https://github.com/jasononeil/useless/",
+  "url" : "https://github.com/Laguna1989/hxArbitraryPrecisionInt",
   "license": "MIT",
   "tags": ["cross", "math"],
-  "description": "Platform independent arbitrary precision Int library based on Array<Boolean>. Unittests included.",
+  "description": "Platform independent arbitrary precision Int library for haxe based on Array<Boolean>. Unittests included.",
   "version": "1.0.0",
   "releasenote": "Initial release, everything is working correctly.",
   "contributors": ["Laguna_999"],
