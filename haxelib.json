@@ -1,0 +1,11 @@
+{
+  "name": "hxArbitraryPrecisionInt",
+  "url" : "https://github.com/jasononeil/useless/",
+  "license": "MIT",
+  "tags": ["cross", "math"],
+  "description": "Platform independent arbitrary precision Int library based on Array<Boolean>. Unittests included.",
+  "version": "1.0.0",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Laguna_999"],
+  "dependencies": {}
+}
