@@ -45,10 +45,9 @@ class ArbitraryPrecisionInt
 			{
 				break;
 			}
-			var div : Int = n >> 1;
 			var rem : Int = n % 2;
 			li.values.push((rem==1)? true : false);
-			n = div;
+			n = n >> 1;
 		}
 		li.values.reverse();
 		return li;
